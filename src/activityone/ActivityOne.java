@@ -6,7 +6,7 @@ package activityone;
 
 /**
  *
- * @author Makizz
+ * @author MhartKhiss
  */
 public class ActivityOne {
 
